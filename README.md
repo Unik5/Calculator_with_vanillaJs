@@ -12,7 +12,7 @@ It performs basic arithmetic operations like addition, subtraction, multiplicati
 
 ## 🚀 Live Demo
 
-()
+(https://gorgeous-malabi-943990.netlify.app/)
 
 ## 📁 Tech Stack
 
